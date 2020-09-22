@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="id" id="home">
+  <head>
+   <title>DeanZayuna Website</title>
+    <link rel="icon"
+    type="image/x-icon"
+    href="Untitled-1.ico"/>
+   <meta charset="utf-8"></meta>
+   <meta name="viewport" content="width=device-width, initial-scale:1.0"></meta>
+   <meta name="author" content="DeanZayuna"></meta>
+   <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <picture>
+        <source media="(max-width: 800px)" srcset="MOBILEBANNER.jpg" >
+        <source media="(min-width: 801px)" srcset="WEB BANNER.jpg" >
+        <img src="WEB BANNER.jpg" alt="Banner" style="width: 100%">
+      </picture>
+    </header>
+    <section>
+      <div class="navbar">
+          <a href="#home">Home</a>
+          <div class="dropdown">
+            <button class="dropbtn">Social Media</button>
+            <div class="dropdown-content">
+              <a href="https://www.youtube.com/channel/UCxCQC1aV7hjOGdPPj48U7tQ" target="_blank">YouTube</a>
+              <a href="https://www.instagram.com/dean_zay_/" target="_blank">Instagram</a>
+            </div>
+          </div>
+          <div class="dropdown1">
+            <button class="dropbtn1">Section</button>
+            <div class="dropdown-content1">
+              <a href="#sabaton">Sabaton</a>
+              <a href="#rammstein">Rammstein</a>
+            </div>
+          </div>
+          <a href="mailto:zaoyundean@gmail.com" title="zaoyundean@gmail.com">Kritik & Saran</a>
+      </div>
+      <article>
+        <div style="overflow: auto">
+          <div class="left" id="diriku">
+            <p>SIAPA AKU <br/><br/>
+              <picture>
+                <source media="(max-width: 800px)" srcset="MOBILEBANNER.jpg" >
+                <source media="(min-width: 801px)" srcset="Logo.jpg" >
+                <img src="MOBILEBANNER.jpg" alt="It's me !" style="width: 80%; max-width:500px">
+              </picture>
+            <p>Dean Zayuna<br/>5 Februari 2004</p>
+            <p style="padding:0px 15px; font-family:times"><b>IT IS WHAT IT IS</b></p>
+          </div>
+          <div class="main" id="sabaton">
+            <p style="text-align:left;padding:0px 20px">Daripada kosong, coba lihat band-band favoritku ini</p>
+            <h2 style="font-family:times">SABATON</h2>
+            <p style="text-align:justify;padding: 0px 20px">
+            <img src="Sabaton.jpg" style="width:100%; max-width:300px; height:auto; float:left; padding-right:20px">Sabaton adalah band heavy metal Swedia dari Falun yang dibentuk pada bulan Desember 1999. Sebagian besar lagu mereka tentang peristiwa sejarah seperti perang atau kepahlawanan.
+            </p>
+            <p style="text-align:justify;padding: 0px 20px">Tema lirik utama band ini didasarkan pada perang, pertempuran bersejarah, dan tindakan kepahlawanan. Nama ini mengacu pada sabaton , pelindung kaki ksatria. Tema pertempuran terdengar di sebagian besar lagu di hampir setiap album mereka. pada Mei 2008, Sabaton merilis album keempat The Art of War , album terinspirasi oleh berpengaruh buku oleh Sun Tzu . Keputusan untuk mendasarkan album pada buku Sun Tzu berasal dari gagasan bahwa dalam 2000 tahun sejak buku itu ditulis, umat manusia telah mencapai banyak hal tetapi, selain kemajuan senjata, seni operasional, strategi, dan perang itu sendiri pada dasarnya tetap ada. sama. Album terbaru mereka, The Great War , dirilis pada 19 Juli 2019, dengan semua lagunya didasarkan pada Perang Dunia I. Konten lirik yang diambil dari Perang Dunia I , Perang Dunia II, dan konflik sejarah lainnya lazim dan liriknya sering menceritakan kisah-kisah heroik perbuatan pria , wanita, dan tentara.
+            </p>
+            <p style="text-align:justify;padding: 0px 20px">Majalah Metal mengklasifikasikan band sebagai heavy metal , dan power metal , meskipun band tidak mengidentifikasi dirinya sebagai band power metal. Bassist Pär Sundström mengatakan dalam sebuah wawancara: "Saya tidak berpikir Sabaton hanya dapat dikategorikan sebagai power metal, karena dua atribut utama power metal adalah vokal bernada tinggi dan lirik fantasi dan Sabaton tidak memiliki keduanya Kami hanya memainkan versi kami dari heavy metal - apa itu heavy metal bagi kami. Saya yakin itu telah mempengaruhi jangkauan kami, selain fakta bahwa kami tidak menyerah setelah hanya beberapa kali mencoba! Itu, dan musik Sabaton menarik bagi orang-orang dari segala usia. " Berikut beberapa lagu :
+            </p>
+            <ol style="text-align:left">
+              <li><a href="https://www.youtube.com/watch?v=WwnrDuKyT9E" target="_blank">Panzerkampf</a><br/>
+              Berisi tentang Pertempuran Kursk. Dijuluki pertempuran antar tank terbesar. Melibatkan 3200 Tank Jerman dan 7400 Tank Uni Soviet</li><br/>
+              <li><a href="https://www.youtube.com/watch?v=-AFdwoyNT24" target="_blank">Attack of The Dead Men</a><br/>
+              6 Agustus 1915, pihak Jerman menggunakan gas beracun guna menyerang pihak lawan yang bertahan di benteng. Prajurit Rusia banyak yang terbunuh seketika. Berfikir semua prajurit Rusia telah tewas, prajurit Jerman mendekat menuju ke benteng. Ketika Jerman telah sampai di garis pertahan pertama, mereka mendapat serangan balasan dari sekitar 100 Tentara Rusia dengan kulit yang mengelupas seperti luka bakar dan mengenakan kain berlumuran darah sebagai masker gas dengan disertai batuk darah. Gambaran mengerikan ini membuat tentara Jerman mengira bahwa mereka (Rusia) adalah hantu dari tentara yang mereka bunuh. Akhirnya Jerman mundur secara penuh hanya karena serangan balasan dari 100 prajurit yang terkena efek gas beracun.</li><br/>
+              <li><a href="https://www.youtube.com/watch?v=96HtY9XJSMA" target="_blank">The Final Solution</a><br/>
+              Intinya, “Final Solution” atau solusi akhir merupakan pembantaian terhadap kaum Yahudi Eropa dengan gas, penembakan, dan cara lainnya. Sekitar enam juta orang Yahudi pria, wanita, maupun anak-anak dibantai selama Holocaust -- dua per tiga dari kaum Yahudi yang tinggal di Eropa sebelum Perang Dunia II.</li><br/>
+              <li><a href="https://www.youtube.com/watch?v=sQS9rkxtr18" target="_blank">Hearts of Iron</a><br/>
+              Selama pertempuran terakhir Berlin pada tahun 1945, jenderal tentara ke-12 Jerman, Walther Wenck menyadari bahwa akhir perang akan datang, dan alih-alih mencoba mengalahkan pasukan Soviet yang maju seperti yang diperintahkan, ia menggunakan pasukannya untuk melarikan diri. koridor keluar dari Berlin. Untuk tindakan seperti itu dia pasti akan dijatuhi hukuman mati, tetapi dia malah bertanggung jawab atas hidup 250.000 orang yang dengan selamat melarikan diri dari kota Berlin yang terbakar. Bagi beberapa orang ini adalah pertempuran, baginya ini adalah operasi penyelamatan.</li><br/>
+              <li><a href="https://www.youtube.com/watch?v=BwfJsKfCnaM" target="_blank">The Last Battle</a><br/>
+              Setelah jatuhnya reich ke-3, pada tanggal 5 Mei 1945 pertempuran aneh terjadi di pegunungan Tyrol di Itter, Austria. Prajurit Wehrmacht (Jerman) dan Angkatan Darat AS bergabung bertempur bersama melawan SS (Jerman) untuk menyelamatkan nyawa para tahanan yang ditahan di kastil Itter. Di bawah komando Kapten Amerika John C Lee dan Mayor Jerman Josef Gangl kastil dipertahankan oleh kurang dari 30 tentara Jerman dan Amerika bersama dengan mantan tahanan kastil Prancis. Bersama-sama, dan dengan sedikit bantuan dari Sherman Tank mereka "Besotten Jenny" yang ditempatkan di pintu masuk utama, mereka berhasil menahan 100-150 orang unit Waffen SS yang kuat di teluk sampai mereka dibebaskan oleh sekutu.</li>
+            </ol>
+          </div>
+          <div class="main1" id="rammstein">
+            <h2 style="font-family:times">RAMMSTEIN</h2>
+            <p style="text-align:justify;padding: 0px 20px">
+              <picture>
+                <source media="(max-width: 800px)" srcset="Rammstein.jpg" >
+                <source media="(min-width: 801px)" srcset="Rammstein1.jpg" >
+                <img src="Rammstein1.jpg" alt="It's me !" style="width: 80%; max-width:300px; float:left; padding-right:20px">
+              </picture>
+              Rammstein adalah sebuah band Industrial Metal Jerman, yang dibentuk di Berlin. Nama Rammstein diambil secara tidak langsung dari kota kecil di Jerman Barat, yakni Ramstein, kota yang terdapat pangkalan militer Amerika Serikat. Walaupun lagu yang mereka bawakan tidak dalam bahasa Inggris, band ini cukup terkenal di luar Jerman, dan mempunyai basis penggemar yang kuat di Eropa Barat, Rusia, Amerika Utara, Tengah, serta Australia. Dan dengan peluncuran album "Reise, Reise" pada 2004, mereka menjadi band Jerman paling fenomenal di belantika musik internasional. Lagu-lagu mereka juga selalu menempati urutan sepuluh besar di Jerman.</p>
+            <p style="text-align:justify;padding: 0px 20px">Meskipun Rammstein sering digeneralisasikan sebagai Neue Deutsche Härte, musiknya mencakup berbagai gaya terkait, termasuk industri hard rock, heavy metal, grunge dan musik elektronik dengan pengaruh punk rock, musik pop, dan gothic rock, karena penggunaan keyboard mereka.
+            </p>
+            <p style="text-align:justify;padding: 0px 20px">Gaya Rammstein cenderung membagikan kritik, beberapa di antaranya menanggapi dengan komentar yang berkesan.
+            Jam Showbiz (April 2001) menggambarkan Mutter sebagai "musik untuk menyerang Polandia". Southland Times Selandia Baru (17 Desember 1999) menyatakan bahwa "suara sub-sonik yang menggelegar" dari Till Lindemann akan mengirim "para petani melarikan diri ke lumbung mereka dan mengunci pintu mereka."
+            </p>
+            <p style="text-align:justify;padding: 0px 20px">Stephen Thomas Erlewine dari Allmusic berkomentar bahwa "perpaduan antara industrial noise, grinding metal guitars, dan opera vocals mereka sangat kuat." "Kami hanya mendorong batas", kata Till Lindemann dalam wawancara dengan majalah rock Kerrang !. "Kami tidak bisa menahannya jika orang tidak suka batas-batas itu didorong." Berikut beberapa lagu :
+            </p>
+            <ol style="text-align:left">
+            <li><a href="https://www.youtube.com/watch?v=LIPc1cfS-oQ" target="_blank">Ohne Dich [Tanpamu]</a><br/>
+              <i style="font-family:times"><p>Tanpamu, aku tidak bisa</p><p>Denganmu, aku juga kesepian</p><p>Tanpamu, aku menghitung waktu</p><p>Denganmu, detik-detik tidak berarti</p></i>
+              Lagu ini bercerita tentang seseorang yang pergi bersama temannya untuk menemui kekasihnya, di tengah perjalanan dia terjatuh dan terluka parah, kemudian teman-temannya membawanya ke tempat tujuan mereka dimana dia melihat sebuah batu nisan, dan sadar kalau kekasihnya telah tiada. Hingga pada akhirnya dia juga meninggal akibat dari luka yang dialaminya
+              </li><br/>
+              <li><a href="https://www.youtube.com/watch?v=WXv31OmnKqQ" target="_blank">Mein Herz Brennt [Hatiku Terbakar]</a><br/>
+              Bercerita tentang seorang pria, dia merenungkan masa kecilnya, dimana orang-orang di sekitarnya mencabik-cabik hatinya pada usia dini untuk mengeraskannya. Hatinya yang tidak berwujud memberinya kekuatan untuk menekan kelopak matanya. Secara harfiah untuk mencegah air matanya sendiri. Dan dia harus menunggu sampai hari dimana dia diliputi kesedihan untuk bisa berteriak bahwa hatinya terbakar.
+              </li><br/>
+              <li><a href="https://www.youtube.com/watch?v=2KsAeccxQwI" target="_blank">Morgenstern [Bintang Fajar]</a><br/>
+              <i style="font-family:times"><p>Lihatlah dengan hati</p><p>Dia sangat cantik</p></i>
+              Seorang gadis yang tidak memiliki penampilan fisik yang cantik. Tetapi dia memiliki keindahan di dalam, kecerdasan yang berkilauan tetapi tidak ada yang bisa melihat itu melewati penampilannya. Ini adalah lagu tentang teriakan minta tolong. Teriakan untuk dihargai dan dicintai untuk siapa dia di dalam.</li><br/>
+              <li><a href="https://www.youtube.com/watch?v=af59U2BRRAU" target="_blank">Rosenrot [Mawar Merah]</a><br/>
+              Lagu ini bercerita tentang seorang gadis yang melihat mawar di puncak gunung, dia meminta kekasihnya untuk mengejarnya dan membawanya kepadanya. Sang kekasih mendaki gunung dan melihat pemandangan di bawahnya, tetapi dia tidak tertarik karena cintanya pada gadis itu. Akhirnya sebuah batu pecah di bawah sepatunya dan dia jatuh, dan mati.</li><br/>
+              <li><a href="https://www.youtube.com/watch?v=CNQQ-EsxmQs" target="_blank">Heirate Mich [Menikahlah Denganku]</a><br/>
+              <h5>*Explicit Lyrics</h5><p>Dibalik keromantisan judulnya. Lagu ini menyimpan cerita yang sangat mengerikan yaitu tentang Nekrofilia (perilaku seksual terhadap mayat). Bercerita tentang seseorang yang kehilangan kekasihnya, tetapi dia tidak bisa merelakannya. Dia selalu tidur disebelah makam sang kekasih, hingga suatu saat ia mulai menggali kembali kuburannya, untuk melihat kembali wajah yang dahulu pernah tersenyum kepadanya.</p></li>
+            </ol>
+            <p style="text-align:left">
+              *Note : setiap lagu Rammstein bersifat subjektif. Tidak ada makna yang pasti didalam lagu-lagu mereka, semua berada pada pemikiran anda sendiri bagaimana anda ingin mengartikan lagu mereka. Sehingga hampir setiap orang memiliki pendapat yang berbeda mengenai makna dari lirik mereka yang umumnya ambigu.
+            </p>
+          </div>
+        </div>
+      </article>
+    </section>
+    <br/>
+    <footer style="box-shadow: 1px 0px 5px 1px rgba(0, 255, 0, 0.5); background-color: black">
+      Dibuat dengan hati oleh : Dean Zayuna
+    </footer>
+  </body>
+</html>
